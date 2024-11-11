@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"title": "Ibanez RGD",
+		"description": "6 String electric guitar",
+		"code": "AAA001",
+		"price": "$1500",
+		"status": true,
+		"stock": 8,
+		"category": "Electric guitar"
+	},
+	{
+		"id": 2,
+		"title": "Ibanez X",
+		"description": "7 String electric guitar",
+		"code": "AAA002",
+		"price": "$1800",
+		"status": true,
+		"stock": 3,
+		"category": "Electric guitar"
+	},
+	{
+		"id": 3,
+		"title": "Ibaneza Sarlanga",
+		"description": "6 String electric guitar",
+		"code": "AAA003",
+		"price": "$900",
+		"status": true,
+		"stock": 3,
+		"category": "Electric guitar"
+	}
+]
